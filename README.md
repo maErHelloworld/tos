@@ -18,7 +18,7 @@ For questions or support, feel free to open an issue in this repository.
 
 Sapius Terms of Service
 
-Last Updated: [Insert Date]
+Last Updated: [23/02/2025]
 
 Welcome to Sapius, a Discord bot powered by AI that utilizes the OpenAI API. By using Sapius, you agree to comply with the following Terms of Service ("ToS"). If you do not agree, please stop using the bot.
 
